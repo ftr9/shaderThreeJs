@@ -1,0 +1,18 @@
+{
+  "name": "flagmove",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --port 3050",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.9.2"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "three": "^0.139.2",
+    "vite-plugin-glsl": "^0.1.2"
+  }
+}
